@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+opencv-python
+# hf
+diffusers
+transformers
+accelerate
+sentencepiece
+protobuf
